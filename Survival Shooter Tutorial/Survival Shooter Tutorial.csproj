@@ -99,6 +99,7 @@
     <Compile Include="Assets\_CompletedAssets\SampleAssets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
     <Compile Include="Assets\_CompletedAssets\Scripts\Audio\MixLevels.cs" />
     <Compile Include="Assets\_CompletedAssets\Scripts\Camera\CameraFollow.cs" />
+    <Compile Include="Assets\_CompletedAssets\Scripts\Camera\CameraFollowTutorial.cs" />
     <Compile Include="Assets\_CompletedAssets\Scripts\Enemy\EnemyAttack.cs" />
     <Compile Include="Assets\_CompletedAssets\Scripts\Enemy\EnemyHealth.cs" />
     <Compile Include="Assets\_CompletedAssets\Scripts\Enemy\EnemyMovement.cs" />
